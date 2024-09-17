@@ -1,4 +1,9 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-I created this repo and read.me to start coding in Java for a bootcamp
-Main goal is to get good at Java and OOP
+<iframe src="https://giphy.com/embed/26ufi8YuYu2BxVS48" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southparkgifs-26ufi8YuYu2BxVS48">via GIPHY</a></p>
+
+About Me:
+InfoSec
+Reading 
+Fitness
+VW Busses
+Skateboarding
+The Great Outdoors
