@@ -9,3 +9,19 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+
+### :computer: About Me :
+
+- :cloud: I’m working as a Cloud Security Engineer.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :detective: In my free time, I'm fixing my VW Bus, or solving a problem.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
