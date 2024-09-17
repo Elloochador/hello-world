@@ -19,7 +19,7 @@
 
 - :cloud: I’m working as a Cloud Security Engineer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Digging more into GRC, and DevSecOps.
 
 - :detective: In my free time, I'm fixing my VW Bus, or solving a problem.
 
