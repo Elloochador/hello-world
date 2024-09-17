@@ -23,7 +23,7 @@
 
 - :detective: In my free time, I'm fixing my VW Bus, or solving a problem.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-APorras-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armandoporras/)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
