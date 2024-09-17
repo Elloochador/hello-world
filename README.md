@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/26ufi8YuYu2BxVS48" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southparkgifs-26ufi8YuYu2BxVS48">via GIPHY</a></p>
+<div id="header" align="center">
+  <img> src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhpNzZmeGp6MGU5YXJzcTRlbjQ1MGc0dHB0bGVnZjJwZjJqYm9vOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufi8YuYu2BxVS48/giphy.gif" width="100"/>
+</div>
 
 About Me:
 InfoSec
